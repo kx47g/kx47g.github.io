@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-##　文章入力テスト
+## 文章入力テスト
 
 You can use the [editor on GitHub](https://github.com/kx47g/kx47g.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
