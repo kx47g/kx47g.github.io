@@ -2,6 +2,17 @@
 
 ## 文章入力テスト
 
+<p>Markdown（マークダウン）は、<strong>文章の書き方</strong>です。デジタル文書を活用する方法として考案されました。特徴は、</p>
+
+<ul>
+<li>手軽に文章構造を明示できること</li>
+<li>簡単で、覚えやすいこと</li>
+<li>読み書きに特別なアプリを必要としないこと</li>
+<li>それでいて、対応アプリを使えば快適に読み書きできること</li>
+</ul>
+
+<p>などです。Markdownはジョン・グルーバー（John Gruber）によって2004年に開発され、最初は <a href="http://daringfireball.net/projects/markdown/">Daring Fireball: Markdown</a> で公開されました。その後、多くの開発者の手を経ながら発展してきました。</p>
+
 You can use the [editor on GitHub](https://github.com/kx47g/kx47g.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
