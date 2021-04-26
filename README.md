@@ -1,17 +1,18 @@
 ## Welcome to GitHub Pages
+## マークダウンの練習がてら、ブログを始めてみる
 
-## 文章入力テスト
+初めまして**kx47g**です。
 
-<p>Markdown（マークダウン）は、<strong>文章の書き方</strong>です。デジタル文書を活用する方法として考案されました。特徴は、</p>
+マークダウン形式で文章を書く必要が出てきたので、その練習がてら趣味ブログを始めました。
 
-<ul>
-<li>手軽に文章構造を明示できること</li>
-<li>簡単で、覚えやすいこと</li>
-<li>読み書きに特別なアプリを必要としないこと</li>
-<li>それでいて、対応アプリを使えば快適に読み書きできること</li>
-</ul>
+このブログでは主にゲームやプラモデルなどのコンテンツについて、ゲーム攻略の様子やプラモデルのテクニックなどを書いていきます。
 
-<p>などです。Markdownはジョン・グルーバー（John Gruber）によって2004年に開発され、最初は <a href="http://daringfireball.net/projects/markdown/">Daring Fireball: Markdown</a> で公開されました。その後、多くの開発者の手を経ながら発展してきました。</p>
+##　2021/04/26
+
+本日は3DSのゲームソフトである、**新世界樹の迷宮２**をプレイしていきます。
+
+タイトル画面
+
 
 You can use the [editor on GitHub](https://github.com/kx47g/kx47g.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
